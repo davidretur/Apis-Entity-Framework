@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/10411529/package-manager-console-enable-migrations-commandnotfoundexception-only-in-a-spe
